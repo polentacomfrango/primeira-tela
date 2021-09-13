@@ -23,7 +23,7 @@
 <channel>
 <name>[B][COLOR white]PLUTO TV[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/7KQfgFL/MENU-PLUTO-TV.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/MASTER%20FIL</externallink>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/PASTA%201</externallink>
 <fanart>https://i.ibb.co/tPgHcHp/fanart.png</fanart>
 <info>
 </channel>
@@ -34,7 +34,7 @@
 <channel>
 <name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/tzLfZmZ/MENU-DESENHOS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/MASTER%20FIL</externallink>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-2-PRINCIPAL/main/PASTA%2013</externallink>
 <fanart>https://i.ibb.co/tPgHcHp/fanart.png</fanart>
 <info>
 </channel>
@@ -45,23 +45,13 @@
 <channel>
 <name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/2hK9pTL/MENU-ANIMES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/MASTER%20FIL</externallink>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-2-PRINCIPAL/main/PASTA%2016</externallink>
 <fanart>https://i.ibb.co/tPgHcHp/fanart.png</fanart>
 <info>
 </channel>
 </channels>
 ######################################################################################################################################
 
-<channels>
-<channel>
-<name>[B][COLOR white]TOKUSATSU[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/LzBBrSr/MENU-TOKUSATSU.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/MASTER%20FIL</externallink>
-<fanart>https://i.ibb.co/tPgHcHp/fanart.png</fanart>
-<info>
-</channel>
-</channels>
-######################################################################################################################################
 
 <channels>
 <channel>
