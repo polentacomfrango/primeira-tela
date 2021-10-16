@@ -41,15 +41,7 @@
 </channels>
 ######################################################################################################################################
 
-<channels>
-<channel>
-<name>[B][COLOR violet]JOGOS DE HOJE[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/25sBS7f/menu-jogos-da-rodada.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-5/main/PASTA%201</externallink>
-<fanart>https://i.ibb.co/J7HpzDX/fanart.png</fanart>
-<info>
-</channel>
-</channels> 
+
 ######################################################################################################################################
 
 
