@@ -1,15 +1,29 @@
 
 ######################################################################################################################################
 
+
 <channels>
 <channel>
 <name>[B][COLOR violet]TV AO VIVO[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/f8gq1GH/tvaovivo.png</thumbnail>
+<thumbnail>https://i.ibb.co/b6RCDjg/tvaovivo-ROXO.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-5/main/tfk</externallink>
 <fanart>https://i.ibb.co/hmCH7qC/fundo-roxo.jpg</fanart>
 <info>
 </channel>
 </channels>
+
+######################################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR violet]PLUTO TV[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/R2XsMHk/MENU-PLUTO-TV.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/PASTA%201</externallink>
+<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+<info>
+</channel>
+</channels>
+######################################################################################################################################
 
 <channels>
 <channel>
@@ -32,16 +46,7 @@
 </channels>
 ######################################################################################################################################
 
-<channels>
-<channel>
-<name>[B][COLOR violet]PLUTO TV[/COLOR][/B]</name>
-<thumbnail>https://i.ibb.co/R2XsMHk/MENU-PLUTO-TV.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTAS/main/PASTA%201</externallink>
-<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
-<info>
-</channel>
-</channels>
-######################################################################################################################################
+
 
 <channels>
 <channel>
