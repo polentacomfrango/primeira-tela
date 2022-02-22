@@ -48,9 +48,20 @@
 
 <channels>
 <channel>
-<name>[B][COLOR violet]DOCUMENTÁRIOS HISTORY[/COLOR][/B]</name>
+<name>[B][COLOR violet]DOCUMENTÁRIOS [/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/GQzKhL7/DOCUMENTARIOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-5/main/pasta%208</externallink>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+<info>
+</channel>
+</channels>
+######################################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR violet]DOCUMENTÁRIOS 2 [/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GQzKhL7/DOCUMENTARIOS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/ialone/files/master/classtv</externallink>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 <info>
 </channel>
